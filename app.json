@@ -1,5 +1,17 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
-  }
+    "sdkVersion": "25.0.0",
+    "loading": {
+      "backgroundColor": "#fff",
+      "icon": "./Assets/AppIcon/Icon.png"
+    },
+    "icon": "./Assets/AppIcon/Icon.png",
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "privacy": "public",
+    "name": "SmartHouse",
+    "slug": "smarthouse"
+  },
+  "name": "SmartHouse",
+  "displayName": "SmartHouse"
 }
